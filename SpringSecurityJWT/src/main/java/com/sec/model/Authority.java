@@ -22,5 +22,9 @@ public class Authority {
 	
 	private String role;
 	
+	public Authority(String role) {
+		super();
+		this.role = role;
+	}
 	
 }
