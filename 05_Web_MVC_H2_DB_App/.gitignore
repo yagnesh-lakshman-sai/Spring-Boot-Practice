@@ -1,0 +1,72 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Eclipse specific files
+.settings/
+.project
+.classpath
+.metadata/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# VS Code
+.vscode/
+
+# Mac / Linux / Windows junk
+.DS_Store
+Thumbs.db
+
+# Maven / Gradle build directories
+target/
+build/
+
+# Spring Boot specific
+*.pid
+*.seed
+*.key
+*.properties~
+*.yml~
+
+# Logs and temporary files
+logs/
+*.log
+*.out
+*.err
+
+# JetBrains / IDE related
+*.ipr
+*.iws
+.idea/
+
+# Generated test reports
+test-output/
+
+# Ignore local environment configs
+.env
+application-local.properties
