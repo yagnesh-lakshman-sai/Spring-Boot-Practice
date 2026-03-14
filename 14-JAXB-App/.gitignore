@@ -1,0 +1,68 @@
+# =========================
+
+# Spring Boot / Java
+
+# =========================
+
+*.class
+*.log
+
+# Maven
+
+target/
+
+# Gradle
+
+.gradle/
+build/
+
+# =========================
+
+# IDE Files
+
+# =========================
+
+# IntelliJ IDEA
+
+.idea/
+*.iml
+out/
+
+# Eclipse
+
+.project
+.classpath
+.settings/
+
+# VS Code
+
+.vscode/
+
+# =========================
+
+# OS Files
+
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+
+# Logs
+
+# =========================
+
+logs/
+*.log
+
+# =========================
+
+# Environment Files
+
+# =========================
+
+.env
+.env.*
+application-local.properties
+application-dev.properties
